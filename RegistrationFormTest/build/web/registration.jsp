@@ -21,13 +21,13 @@
                     Register Account</h1>
                 <form action="RegisterServlet" method="post">
                     <p>
-                        Username</p>
+                        Ad</p>
                     <input type="text" placeholder="Username" name="name" required>
                         <p>
-                            Useremail</p>
+                            E-posta</p>
                         <input type="text" placeholder="Useremail" name="email" required>
                             <p>
-                                Password</p>
+                                Şifre</p>
                             <input type="password" placeholder="Password" name="password" required>
                                 <input type="submit" value="Register">
                                     <a href="index.jsp">Already have Account?</a>
